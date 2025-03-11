@@ -35,7 +35,8 @@ This repository contains Power BI dashboards developed as part of the PwC Power 
   - Uses bar graphs to represent findings effectively.
 
 **Dashboard Screenshot:**
-(PWC Virtual Internship/images/ccr1.png)
+![Page1](images/ccr1.png)
+
 
 ---
 
