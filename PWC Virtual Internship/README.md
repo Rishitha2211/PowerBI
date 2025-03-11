@@ -1,6 +1,6 @@
 # PwC Power BI Virtual Internship
 
-This repository contains Power BI dashboards developed as part of the PwC Power BI Virtual Internship on Forage. These dashboards provide insights into call center trends, customer churn analysis, and gender-based workforce insights. The repository includes three `.pbix` files along with a detailed README explaining the dashboards.
+This folder contains Power BI dashboards developed as part of the PwC Power BI Virtual Internship on Forage. These dashboards provide insights into call center trends, customer churn analysis, and gender-based workforce insights. 
 
 ## Dashboards
 
@@ -17,7 +17,8 @@ This repository contains Power BI dashboards developed as part of the PwC Power 
   - Includes an agent name slicer to filter by specific agents.
 
 **Dashboard Screenshot:**
-![Call Center Trends Screenshot](path/to/image.png)
+![Page1](images/cct1.png)
+![Page2](images/cct2.png)
 
 ---
 
@@ -36,7 +37,7 @@ This repository contains Power BI dashboards developed as part of the PwC Power 
 
 **Dashboard Screenshot:**
 ![Page1](images/ccr1.png)
-
+![Page2](images/ccr2.png)
 
 ---
 
@@ -49,7 +50,7 @@ This repository contains Power BI dashboards developed as part of the PwC Power 
   - Includes slicers for department and employment type (Full-time/Part-time) to refine analysis.
 
 **Dashboard Screenshot:**
-![Gender-Based Workforce Insights Screenshot](path/to/image.png)
+![Page1](images/wfi.png)
 
 ---
 
@@ -60,6 +61,7 @@ PowerBI/
 │   │── Call_Center_Trends.pbix
 │   │── Customer_Churn_Trends.pbix
 │   │── Gender_Based_Workforce_Insights.pbix
+│   │── Images
 │   │── README.md
 ```
 
