@@ -48,7 +48,7 @@ This dashboard is designed to provide a comprehensive view of ongoing projects, 
 
 1.  **Preview:** Open `ProjectManagementDashboard.pdf` to get a quick overview of the dashboard's layout and visualizations.
 2.  **Interactive Analysis:** Open `ProjectManagementDashboard.pbix` in Microsoft Power BI Desktop.
-3.  **Navigation:** Use the buttons on the home page to navigate between the three dashboard pages.
+3.  **Navigation:** Use the buttons on the home page or the buttons to the left of each page to navigate between the three dashboard pages.
 4.  **Interaction:** Use slicers, filters, and drill-down capabilities to explore the data and gain insights.
 
 
